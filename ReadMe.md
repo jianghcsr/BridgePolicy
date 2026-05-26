@@ -1,9 +1,9 @@
 <h1 align="center"> [ICML 2026] Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation</h1>
 
 <div align="center">
-  Zhaoyang Liu<sup>1,2</sup>, Mokai Pan<sup>1,2</sup>, Zhongyi Wang<sup>1,2</sup>, Kaizhen Zhu<sup>1,2</sup>, Haotao Lu<sup>1,2</sup>, 
+  Zhaoyang Liu<sup>1,2</sup>, Mokai Pan<sup>1</sup>, Zhongyi Wang<sup>1</sup>, Kaizhen Zhu<sup>1</sup>, Haotao Lu<sup>1</sup>, 
   
-  Haipeng Zhang<sup>1</sup>, Jingya Wang<sup>1,2</sup>, Ye Shi<sup>1,2,†</sup>
+  Haipeng Zhang<sup>1</sup>, Jingya Wang<sup>1</sup>, Ye Shi<sup>1,2,†</sup>
 
   <sup>1</sup>ShanghaiTech University <sup>2</sup>InstAdapt
 </div>
@@ -11,7 +11,11 @@
 <h3 align="center"> [<a href="https://arxiv.org/pdf/2512.07212">arXiv</a>] </h3> <!-- [<a href="https://unidb-soc.github.io/UniDB_page/">Project page</a>] -->
 
 <div align="center">
-    <img src="figs/main.png" alt="Framework" width="500">
+    <img src="figs/main-insight.png" alt="Framework" width="450">
+</div>
+
+<div align="center">
+    <img src="figs/main.png" alt="Framework" width="700">
 </div>
 
 
