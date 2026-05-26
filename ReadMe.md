@@ -11,7 +11,7 @@
 <h3 align="center"> [<a href="https://arxiv.org/pdf/2512.07212">arXiv</a>] </h3> <!-- [<a href="https://unidb-soc.github.io/UniDB_page/">Project page</a>] -->
 
 <div align="center">
-    <img src="figs/main-insight.png" alt="Framework" width="450">
+    <img src="figs/main_insight.png" alt="Framework" width="450">
 </div>
 
 <div align="center">
